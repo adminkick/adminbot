@@ -227,7 +227,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
-
+@mohammadreza1480
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
